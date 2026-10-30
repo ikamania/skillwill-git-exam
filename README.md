@@ -4,4 +4,4 @@ This repository contains my work for the Git exam.
 
 ## Project Status
 
-In Development
+Completed
